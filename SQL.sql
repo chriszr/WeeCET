@@ -1,7 +1,7 @@
 -- --------------------------------------------------------
 
 --
--- 表的结构 `CET_Info`
+-- 琛ㄧ殑缁撴瀯 `CET_Info`
 --
 
 CREATE TABLE IF NOT EXISTS `CET_Info` (
@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS `CET_Info` (
 -- --------------------------------------------------------
 
 --
--- 表的结构 `score`
+-- 琛ㄧ殑缁撴瀯 `score`
 --
 
 CREATE TABLE IF NOT EXISTS `score` (
@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS `score` (
 -- --------------------------------------------------------
 
 --
--- 表的结构 `Student`
+-- 琛ㄧ殑缁撴瀯 `Student`
 --
 
 CREATE TABLE IF NOT EXISTS `Student` (
